@@ -29,7 +29,7 @@ int main()
 	cout << fixed << setprecision(2) << " The total tax is $" << total << "\n";
 
 
-
+	return 0;
 
 
 }
